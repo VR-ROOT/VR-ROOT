@@ -2,6 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vr-root&label=Profile%20views&color=0e75b6&style=flat" alt="vr-root" /> </p>
 
+ <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
+        alt="GeeksforGeeks logo"
+        align="right">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
