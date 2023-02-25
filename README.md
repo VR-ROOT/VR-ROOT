@@ -4,9 +4,9 @@
  <img src=
 "https://media.tenor.com/mwnitvmolh8AAAAC/dark.gif"
         
-        align="center">
+ align="center">
         
-        <br> <br>
+ <br><br>
         
 <h3 align="center">THE____USER</h3>
 
@@ -14,8 +14,8 @@
 
  <img src=
 "https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif"
-        
-        align="right">
+  
+  align="right">
 
 
 <h3 align="left">Connect with me:</h3>
