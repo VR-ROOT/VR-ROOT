@@ -3,15 +3,18 @@
 
  <img src=
 "https://media.tenor.com/mwnitvmolh8AAAAC/dark.gif"
-        alt="GeeksforGeeks logo"
+        
         align="center">
+        
+        <br> <br>
+        
 <h3 align="center">THE____USER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vr-root&label=Profile%20views&color=0e75b6&style=flat" alt="vr-root" /> </p>
 
  <img src=
 "https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif"
-        alt="GeeksforGeeks logo"
+        
         align="right">
 
 
