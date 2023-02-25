@@ -1,10 +1,7 @@
 
 
 
- <img src=
-"https://media.tenor.com/mwnitvmolh8AAAAC/dark.gif"
-        
- align="center">
+ <img src="https://media.tenor.com/mwnitvmolh8AAAAC/dark.gif" align="center">
         
  <br><br>
         
@@ -12,10 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vr-root&label=Profile%20views&color=0e75b6&style=flat" alt="vr-root" /> </p>
 
- <img src=
-"https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif"
-  
-  align="right">
+ <img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="right">
 
 
 <h3 align="left">Connect with me:</h3>
